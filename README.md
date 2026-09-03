@@ -28,9 +28,10 @@ A technical repository dedicated to documenting foundational competencies in pro
 
 ## 🏆 Certifications & Applied Labs
 
-*   **TryHackMe:** Active practitioner utilizing sandboxed environments to apply fundamentals; **1 platform credential awarded** for foundational security pathway completion.
-
----
+*   🏅 **TryHackMe: Defend Your First System** (Issued: September 2026)
+    *   **Core Skills Verified:** Defensive Security Architecture, the CIA Triad (Confidentiality, Integrity, Availability), and Practical Defensive Implementation.
+    *   **Credential ID:** `THM-Z4QNOHVFRB`
+    *   **Verification Link:** [Verify Certificate](https://tryhackme.com)
 
 ## 📂 Repository Infrastructure
 *   `/python/` — Algorithmic logic scripts, data handling exercises, and functional modules.
