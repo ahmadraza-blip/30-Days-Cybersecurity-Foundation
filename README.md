@@ -36,4 +36,4 @@ A technical repository dedicated to documenting foundational competencies in pro
 *   `/python/` — Algorithmic logic scripts, data handling exercises, and functional modules.
 *   `/linux/` — Configuration scripts, administrative command manifests, and architectural notes.
 *   `/cmd/` — Native Windows CLI batch operations and navigation mapping logs.
-*
+
